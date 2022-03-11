@@ -1,0 +1,16 @@
+name: "Andrew Ethan Huff"
+navbar:
+  title: "Andrew Ethan Huff"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: Research.html
+    - text: "Publications"
+      href: Publications.html
+
+      
+output: 
+  html_document:
+    theme: cosmo
+output_dir: "."
